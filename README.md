@@ -94,6 +94,3 @@ Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
-```
-
-Este `README.md` proporciona una visión general clara del proyecto, su estructura y los pasos a seguir. Puedes personalizarlo según tus necesidades y agregar más detalles si es necesario.
