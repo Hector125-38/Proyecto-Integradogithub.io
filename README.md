@@ -125,6 +125,7 @@ Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue
 
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
-
-# "El único lugar donde el éxito viene antes que el trabajo es en el diccionario."
-## — Vidal Sassoon
+## frase 
+ "El verdadero valor no es la ausencia de miedo, sino la decisión de enfrentarlo."  
+  
+ Héctor de Troya
